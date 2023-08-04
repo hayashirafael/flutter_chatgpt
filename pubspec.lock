@@ -85,10 +85,10 @@ packages:
     dependency: "direct main"
     description:
       name: chat_gpt_flutter
-      sha256: "38d56435c16e9d8743fcdcc9d361a315e6c0e15b4eb91a8638cca235ffbb03bc"
+      sha256: "4e1dfe871851dbe08ee02f8abb40b664177839f876c305e8ef63fe56988a1bee"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.13"
+    version: "1.0.10"
   checked_yaml:
     dependency: transitive
     description:
@@ -203,14 +203,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.2"
-  http:
-    dependency: transitive
-    description:
-      name: http
-      sha256: "5895291c13fa8a3bd82e76d5627f69e0d85ca6a30dcac95c4ea19a5d555879c2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.13.6"
   http_parser:
     dependency: transitive
     description:
